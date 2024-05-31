@@ -5,6 +5,7 @@ public class Demo {
 	{
 		System.out.println("This line is from Project A");
 		System.out.println("This line is from Project B");
+		System.out.println("This line is from Project A");
 	}
 
 }
